@@ -1,0 +1,232 @@
+.landing__header {
+    background-color: #FFF0ED;
+}
+
+.landing__logo {
+    width: 3.13em;
+}
+
+.landing__title {
+    font-size: 2.06em;
+    font-weight: 400;
+}
+
+.landing__item {
+    list-style-type: none;
+}
+
+.coffee__nitro {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 70vh;
+  background-color: #FFF0ED;
+  padding: 2rem;
+}
+
+.coffee__text-container {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 1rem;
+}
+
+.coffee__title {
+  font-size: 3.75rem;
+  font-weight: 300;
+  margin: 2rem;
+}
+
+.coffee__description {
+  font-size: 1.125rem;
+  font-weight: 400;
+    margin-top: 0;
+    margin-bottom:0;
+
+}
+
+
+
+.shop__now {
+  background-color: #5BACC3;
+  color: white;
+  border: none;
+  font-size: 1.3125rem;
+  font-weight: 400;
+  width: 11.25rem;
+  padding: 1.25rem;
+  margin: 2rem;
+}
+
+.coffee__bag {
+  width: 20rem;
+  height: 40rem;
+}
+
+.products {
+    background-color: #F7F7F7;
+}
+
+.products__title {
+    font-size: 3.75em;
+    font-weight: 300;
+    text-align: center;
+}
+
+.products__sub-title {
+    font-size: 2.0625em;
+    font-weight: 300;
+}
+
+.products__sub-price {
+    font-size: 1.125em;
+    font-weight: 400;
+    color: #5BACC3;
+}
+
+.coffee__beans {
+    height: 17.5em;
+}
+
+.cold__brew {
+    height: 17.5em;
+}
+
+in__house {
+    height: 17.5em;
+}
+
+.view__all {
+    background-color: #5BACC3;
+    color: white;
+    border: none;
+    font-size: 1.3125em;
+    font-weight: 400;
+    margin: 0 auto; /* Center horizontally */
+    display: block; /* Ensure the button is a block-level element */
+    margin-top: 1.25rem;
+    width: 11.25rem;
+    height: 4rem;
+
+}
+.promo__products {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: white;
+  width: 100%;
+  padding: 7rem;
+  box-sizing: border-box;
+}
+
+.products__promo {
+  background-color: #393939;
+  color: white;
+  font-size: 2.8125em;
+  font-weight: 400;
+  text-align: center;
+  padding: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
+  max-width: 100%;
+  margin-top: 10rem;
+  margin-bottom: 10rem;
+}
+
+.promo__code {
+    font-weight: bold;
+}
+
+.site__contact {
+    background-color: #FFF0ED;
+    display: flex;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding: 8rem;
+
+}
+
+.site__info {
+    font-size: 3.75em;
+    font-weight: 300;
+    margin-bottom: 2rem;
+}
+
+.contact__info {
+    font-size: 1.125em;
+    font-weight: 400;
+}
+
+.facebook, .yelp, .instagram {
+    width: 3.125em;
+}
+
+.weekdays {
+    font-weight: bold;
+}
+
+
+
+.landing__header {
+    background-color: #FFF0ED;
+    padding: 1rem;
+    white-space: nowrap;
+    overflow: hidden;
+  }
+
+  .landing__title {
+   display: inline-block;
+   padding-left: 0;
+   float: left;
+  }
+
+  .landing__nav {
+    display: inline-block;
+    width: 100%;
+  }
+
+  .landing__list {
+    list-style: none;
+    padding-left: 0;
+    float: left;
+    padding-top: 0.5rem;
+  }
+
+  .landing__logo {
+  float: left;
+  }
+
+  .landing__item {
+    display: inline-block;
+  }
+
+  .landing__link {
+    display: inline-block;
+    text-decoration: none;
+    color: inherit;
+    padding: 1rem;
+  }
+
+
+  .landing__link:hover {
+    color: #5BACC3;
+  }
+
+.drinks {
+  display: inline-block;
+  width: 20.63rem;
+  height: 27.50rem;
+  padding: 1.25rem;
+  border-radius: 0.63rem;
+  box-shadow: 0 0.31rem 0.56rem rgba(0, 0, 0, 0.25);
+  margin: 2rem;
+  margin-left: 5rem;
+}
+
+
+.drinks img {
+  width: 50%;
+  height: 70%;
+  border-radius: 0.63rem;
+  display: block;
+}
